@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello, I'm Leonardo
 
-<!--
-**LL-Dias/LL-Dias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Cybersecurity Student focused on Network Security and Blue Team
 
-Here are some ideas to get you started:
+## 🧪 Labs
+- Network Scanning Lab (Nmap)
+- Traffic Analysis (Wireshark)
+- Virtual Lab (Kali Linux + Metasploitable)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+- Nmap
+- Wireshark
+- Linux
+- Kali Linux
+
+## 📚 Currently Learning
+- Vulnerability Assessment
+- SOC Operations
+- Incident Response
+
+## 🔗 Links
+- TryHackMe: https://tryhackme.com/p/leolucena0
+- LinkedIn: https://www.linkedin.com/in/leonardo-dias-cybersecurity/
